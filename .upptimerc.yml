@@ -22,6 +22,7 @@ status-website:
   name: Upptime
   introTitle: "Status Page for OMSF Project Webpages"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/mikemhenry/website-status).
+  theme: dark
   navbar:
     - title: Status
       href: /
