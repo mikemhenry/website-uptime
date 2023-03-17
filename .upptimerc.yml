@@ -8,6 +8,10 @@ sites:
     url: https://openfree.energy
   - name: OpenFF
     url: https://openforcefield.org
+  - name: Alchemiscale (API)
+    url: https://api.alchemiscale.org/ping
+  - name: Alchemiscale (Compute)
+    url: https://compute.alchemiscale.org/ping
 
 assignees: # Users to assign downtime issues (optional)
   - mikemhenry
