@@ -58,9 +58,9 @@
     "url": "https://api.alchemiscale.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.alchemiscale.org.ico",
     "slug": "alchemiscale-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +69,18 @@
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   },
   {
     "name": "Alchemiscale (Compute)",
     "url": "https://compute.alchemiscale.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/compute.alchemiscale.org.ico",
     "slug": "alchemiscale-compute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 166,
     "timeMonth": 166,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   }
 ]
