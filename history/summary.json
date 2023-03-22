@@ -58,19 +58,19 @@
     "url": "https://api.alchemiscale.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.alchemiscale.org.ico",
     "slug": "alchemiscale-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 168,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "status": "up",
+    "uptime": "97.99%",
+    "uptimeDay": "89.73%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "97.99%",
+    "time": 197,
+    "timeDay": 163,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 148
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://compute.alchemiscale.org/ping",
     "icon": "https://icons.duckduckgo.com/ip3/compute.alchemiscale.org.ico",
     "slug": "alchemiscale-compute",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 54,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "status": "up",
+    "uptime": "97.99%",
+    "uptimeDay": "89.73%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "97.99%",
+    "time": 164,
+    "timeDay": 102,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 148
     }
   }
 ]
