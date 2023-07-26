@@ -15,7 +15,9 @@
     "timeWeek": 360,
     "timeMonth": 298,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "OpenFE",
