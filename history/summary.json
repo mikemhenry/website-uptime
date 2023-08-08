@@ -42,19 +42,19 @@
     "url": "https://openforcefield.org",
     "icon": "https://icons.duckduckgo.com/ip3/openforcefield.org.ico",
     "slug": "open-ff",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 276,
-    "timeWeek": 208,
-    "timeMonth": 217,
+    "timeDay": 251,
+    "timeWeek": 210,
+    "timeMonth": 218,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 9
     }
   },
   {
