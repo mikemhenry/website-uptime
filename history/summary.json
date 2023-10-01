@@ -6,9 +6,9 @@
     "slug": "omsf",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 302,
     "timeDay": 261,
@@ -16,7 +16,7 @@
     "timeMonth": 312,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-10-01": 76,
+      "2023-10-01": 64,
       "2023-09-30": 16,
       "2023-07-26": 24
     }
