@@ -4,11 +4,11 @@
     "url": "https://www.omsf.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.omsf.io.ico",
     "slug": "omsf",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "91.06%",
-    "uptimeWeek": "83.81%",
-    "uptimeMonth": "94.43%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "83.70%",
+    "uptimeMonth": "94.40%",
     "uptimeYear": "99.18%",
     "time": 310,
     "timeDay": 268,
@@ -16,7 +16,7 @@
     "timeMonth": 316,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2023-10-11": 129,
+      "2023-10-11": 140,
       "2023-10-10": 145,
       "2023-10-09": 181,
       "2023-10-08": 354,
@@ -45,7 +45,7 @@
     "time": 218,
     "timeDay": 53,
     "timeWeek": 153,
-    "timeMonth": 209,
+    "timeMonth": 211,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2023-08-08": 19
@@ -65,7 +65,7 @@
     "time": 202,
     "timeDay": 64,
     "timeWeek": 140,
-    "timeMonth": 210,
+    "timeMonth": 212,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2023-08-08": 32
@@ -85,7 +85,7 @@
     "time": 241,
     "timeDay": 215,
     "timeWeek": 238,
-    "timeMonth": 241,
+    "timeMonth": 238,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2023-04-23": 18,
@@ -111,7 +111,7 @@
     "time": 324,
     "timeDay": 216,
     "timeWeek": 234,
-    "timeMonth": 230,
+    "timeMonth": 224,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2023-08-28": 914,
