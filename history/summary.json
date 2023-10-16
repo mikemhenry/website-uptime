@@ -4,15 +4,15 @@
     "url": "https://www.omsf.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.omsf.io.ico",
     "slug": "omsf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "85.91%",
+    "uptimeDay": "87.32%",
     "uptimeWeek": "86.05%",
-    "uptimeMonth": "93.37%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.06%",
     "time": 298,
-    "timeDay": 246,
-    "timeWeek": 264,
+    "timeDay": 242,
+    "timeWeek": 262,
     "timeMonth": 295,
     "timeYear": 298,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
       "2023-10-07": 205,
       "2023-10-06": 328,
       "2023-10-05": 287,
-      "2023-10-04": 143
+      "2023-10-04": 121
     }
   },
   {
@@ -42,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 218,
-    "timeDay": 153,
-    "timeWeek": 181,
-    "timeMonth": 199,
-    "timeYear": 218,
+    "time": 217,
+    "timeDay": 106,
+    "timeWeek": 192,
+    "timeMonth": 193,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2023-08-08": 19
     }
@@ -63,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 161,
-    "timeWeek": 129,
-    "timeMonth": 205,
+    "timeDay": 147,
+    "timeWeek": 144,
+    "timeMonth": 201,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2023-08-08": 32
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 239,
-    "timeDay": 164,
-    "timeWeek": 180,
-    "timeMonth": 234,
-    "timeYear": 239,
+    "time": 238,
+    "timeDay": 55,
+    "timeWeek": 159,
+    "timeMonth": 226,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-04-23": 18,
       "2023-04-19": 56,
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 320,
-    "timeDay": 64,
-    "timeWeek": 135,
-    "timeMonth": 210,
+    "timeDay": 171,
+    "timeWeek": 129,
+    "timeMonth": 209,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2023-08-28": 914,
