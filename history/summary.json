@@ -6,17 +6,17 @@
     "slug": "omsf",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "90.32%",
-    "uptimeWeek": "88.49%",
-    "uptimeMonth": "94.47%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "88.70%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "99.26%",
     "time": 294,
     "timeDay": 320,
-    "timeWeek": 287,
+    "timeWeek": 286,
     "timeMonth": 291,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-10-30": 140,
+      "2023-10-30": 130,
       "2023-10-29": 150,
       "2023-10-28": 162,
       "2023-10-27": 217,
@@ -28,7 +28,7 @@
       "2023-10-21": 247,
       "2023-10-20": 246,
       "2023-10-19": 249,
-      "2023-10-18": 97
+      "2023-10-18": 117
     }
   },
   {
@@ -45,7 +45,7 @@
     "time": 217,
     "timeDay": 41,
     "timeWeek": 205,
-    "timeMonth": 208,
+    "timeMonth": 206,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-08-08": 19
@@ -65,7 +65,7 @@
     "time": 201,
     "timeDay": 160,
     "timeWeek": 200,
-    "timeMonth": 183,
+    "timeMonth": 182,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2023-08-08": 32
@@ -85,7 +85,7 @@
     "time": 240,
     "timeDay": 218,
     "timeWeek": 225,
-    "timeMonth": 231,
+    "timeMonth": 230,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2023-04-23": 18,
