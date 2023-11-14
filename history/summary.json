@@ -4,14 +4,14 @@
     "url": "https://www.omsf.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.omsf.io.ico",
     "slug": "omsf",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "84.93%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "86.61%",
     "uptimeWeek": "86.43%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "99.25%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "99.26%",
     "time": 297,
-    "timeDay": 278,
+    "timeDay": 282,
     "timeWeek": 296,
     "timeMonth": 291,
     "timeYear": 297,
@@ -28,7 +28,7 @@
       "2023-11-05": 163,
       "2023-11-04": 232,
       "2023-11-03": 299,
-      "2023-11-02": 238
+      "2023-11-02": 215
     }
   },
   {
