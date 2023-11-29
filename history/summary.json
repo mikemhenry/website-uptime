@@ -6,17 +6,17 @@
     "slug": "omsf",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "86.77%",
-    "uptimeMonth": "94.08%",
+    "uptimeDay": "93.48%",
+    "uptimeWeek": "86.87%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "99.30%",
     "time": 300,
-    "timeDay": 349,
+    "timeDay": 362,
     "timeWeek": 326,
     "timeMonth": 307,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2023-11-28": 171,
+      "2023-11-28": 160,
       "2023-11-27": 282,
       "2023-11-26": 112,
       "2023-11-25": 139,
@@ -29,7 +29,7 @@
       "2023-11-18": 203,
       "2023-11-17": 215,
       "2023-11-16": 158,
-      "2023-11-15": 68
+      "2023-11-15": 91
     }
   },
   {
@@ -43,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 223,
-    "timeDay": 241,
-    "timeWeek": 262,
-    "timeMonth": 269,
-    "timeYear": 223,
+    "time": 222,
+    "timeDay": 54,
+    "timeWeek": 240,
+    "timeMonth": 263,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2023-08-08": 19
     }
@@ -64,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 273,
-    "timeWeek": 234,
-    "timeMonth": 213,
+    "timeDay": 219,
+    "timeWeek": 233,
+    "timeMonth": 215,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2023-08-08": 32
@@ -84,9 +84,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 242,
-    "timeDay": 242,
-    "timeWeek": 249,
-    "timeMonth": 253,
+    "timeDay": 221,
+    "timeWeek": 231,
+    "timeMonth": 257,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2023-04-23": 18,
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 305,
-    "timeDay": 143,
-    "timeWeek": 257,
-    "timeMonth": 225,
-    "timeYear": 305,
+    "time": 304,
+    "timeDay": 55,
+    "timeWeek": 215,
+    "timeMonth": 221,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-08-28": 914,
       "2023-04-23": 18,
