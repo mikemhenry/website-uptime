@@ -6,17 +6,17 @@
     "slug": "omsf",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "85.94%",
-    "uptimeWeek": "86.76%",
-    "uptimeMonth": "94.17%",
+    "uptimeDay": "88.46%",
+    "uptimeWeek": "86.87%",
+    "uptimeMonth": "94.15%",
     "uptimeYear": "99.32%",
     "time": 301,
-    "timeDay": 330,
-    "timeWeek": 332,
+    "timeDay": 333,
+    "timeWeek": 334,
     "timeMonth": 309,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-12-02": 176,
+      "2023-12-02": 165,
       "2023-12-01": 221,
       "2023-11-30": 207,
       "2023-11-29": 178,
@@ -29,7 +29,7 @@
       "2023-11-22": 121,
       "2023-11-21": 192,
       "2023-11-20": 194,
-      "2023-11-19": 65
+      "2023-11-19": 85
     }
   },
   {
@@ -44,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 161,
-    "timeWeek": 194,
-    "timeMonth": 269,
+    "timeDay": 182,
+    "timeWeek": 193,
+    "timeMonth": 258,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2023-08-08": 19
@@ -63,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 203,
-    "timeDay": 176,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 203,
+    "time": 202,
+    "timeDay": 158,
+    "timeWeek": 209,
+    "timeMonth": 212,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2023-08-08": 32
     }
@@ -84,8 +84,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 242,
-    "timeDay": 329,
-    "timeWeek": 245,
+    "timeDay": 208,
+    "timeWeek": 242,
     "timeMonth": 266,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 303,
-    "timeDay": 206,
+    "time": 302,
+    "timeDay": 228,
     "timeWeek": 188,
-    "timeMonth": 221,
-    "timeYear": 303,
+    "timeMonth": 222,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2023-08-28": 914,
       "2023-04-23": 18,
