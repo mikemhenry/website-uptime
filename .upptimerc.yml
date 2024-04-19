@@ -6,6 +6,8 @@ sites:
     url: https://www.omsf.io
   - name: OpenFE
     url: https://openfree.energy
+  - name: Try OpenFE
+    url: https://try.openfree.energy
   - name: OpenFF
     url: https://openforcefield.org
   - name: Alchemiscale (API)
