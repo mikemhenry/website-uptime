@@ -8,6 +8,7 @@ sites:
     url: https://openfree.energy
   - name: Try OpenFE
     url: https://try.openfree.energy
+    maxResponseTime: 10000
   - name: OpenFF
     url: https://openforcefield.org
   - name: Alchemiscale (API)
