@@ -1,7 +1,7 @@
 url: https://api.alchemiscale.org/ping
-status: up
-code: 200
-responseTime: 267
-lastUpdated: 2024-10-10T23:15:02.498Z
+status: down
+code: 404
+responseTime: 286
+lastUpdated: 2024-10-11T11:57:19.939Z
 startTime: 2023-03-17T03:04:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
