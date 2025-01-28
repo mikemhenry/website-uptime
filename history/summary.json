@@ -27,11 +27,11 @@
     "url": "https://openfree.energy",
     "icon": "https://icons.duckduckgo.com/ip3/openfree.energy.ico",
     "slug": "open-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 293,
@@ -39,7 +39,7 @@
     "timeMonth": 251,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-01-28": 10
+      "2025-01-28": 0
     }
   },
   {
