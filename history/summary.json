@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 388,
-    "timeDay": 595,
-    "timeWeek": 462,
+    "timeDay": 392,
+    "timeWeek": 434,
     "timeMonth": 421,
     "timeYear": 398,
     "dailyMinutesDown": {
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 221,
-    "timeDay": 317,
-    "timeWeek": 266,
+    "timeDay": 151,
+    "timeWeek": 183,
     "timeMonth": 258,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/try.openfree.energy.ico",
     "slug": "try-open-fe",
     "status": "down",
-    "uptime": "74.98%",
+    "uptime": "74.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-06-07": 103,
+      "2025-06-08": 113,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -154,8 +155,7 @@
       "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
-      "2024-06-09": 1440,
-      "2024-06-08": 1440
+      "2024-06-09": 1440
     }
   },
   {
@@ -170,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 284,
-    "timeWeek": 241,
-    "timeMonth": 237,
+    "timeDay": 242,
+    "timeWeek": 232,
+    "timeMonth": 235,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -188,8 +188,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 269,
-    "timeDay": 304,
-    "timeWeek": 314,
+    "timeDay": 317,
+    "timeWeek": 305,
     "timeMonth": 289,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -213,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 258,
-    "timeDay": 314,
-    "timeWeek": 297,
-    "timeMonth": 275,
+    "timeDay": 90,
+    "timeWeek": 257,
+    "timeMonth": 267,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-02-07": 15,
