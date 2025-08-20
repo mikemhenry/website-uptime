@@ -62,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-08-20": 699,
+      "2025-08-20": 709,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -212,19 +212,19 @@
     "url": "https://openforcefield.org",
     "icon": "https://icons.duckduckgo.com/ip3/openforcefield.org.ico",
     "slug": "open-ff",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 485,
-    "timeWeek": 265,
-    "timeMonth": 230,
+    "timeDay": 371,
+    "timeWeek": 264,
+    "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-08-20": 0
+      "2025-08-20": 9
     }
   },
   {
