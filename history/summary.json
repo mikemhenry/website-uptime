@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 406,
-    "timeDay": 388,
-    "timeWeek": 405,
-    "timeMonth": 443,
+    "time": 407,
+    "timeDay": 470,
+    "timeWeek": 390,
+    "timeMonth": 449,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-05-05": 17,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 247,
-    "timeDay": 280,
-    "timeWeek": 879,
+    "timeDay": 236,
+    "timeWeek": 233,
     "timeMonth": 473,
-    "timeYear": 263,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2025-03-26": 40,
       "2025-01-29": 21,
@@ -51,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/try.openfree.energy.ico",
     "slug": "try-open-fe",
     "status": "down",
-    "uptime": "57.57%",
+    "uptime": "57.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.81%",
-    "time": 580,
+    "uptimeYear": "55.54%",
+    "time": 581,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 645,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2025-10-10": 96,
+      "2025-10-11": 85,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -259,9 +260,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 262,
-    "timeWeek": 242,
-    "timeMonth": 265,
+    "timeDay": 251,
+    "timeWeek": 244,
+    "timeMonth": 264,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -277,17 +278,16 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 282,
-    "timeDay": 308,
-    "timeWeek": 269,
-    "timeMonth": 303,
+    "timeDay": 365,
+    "timeWeek": 289,
+    "timeMonth": 308,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-09-25": 34,
       "2025-08-27": 18,
       "2025-02-07": 15,
       "2024-11-22": 16,
-      "2024-11-20": 22,
-      "2024-10-11": 42
+      "2024-11-20": 22
     }
   },
   {
@@ -302,8 +302,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 273,
-    "timeDay": 265,
-    "timeWeek": 252,
+    "timeDay": 245,
+    "timeWeek": 239,
     "timeMonth": 290,
     "timeYear": 277,
     "dailyMinutesDown": {
@@ -311,8 +311,7 @@
       "2025-08-27": 18,
       "2025-02-07": 15,
       "2024-11-22": 16,
-      "2024-11-20": 22,
-      "2024-10-11": 42
+      "2024-11-20": 22
     }
   }
 ]
