@@ -1,7 +1,7 @@
 url: https://openfree.energy
-status: up
-code: 200
-responseTime: 180
-lastUpdated: 2025-11-18T11:48:23.162Z
+status: down
+code: 500
+responseTime: 960
+lastUpdated: 2025-11-18T11:58:13.472Z
 startTime: 2023-03-17T02:45:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
