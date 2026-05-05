@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 416,
-    "timeDay": 371,
-    "timeWeek": 346,
-    "timeMonth": 351,
-    "timeYear": 425,
+    "time": 415,
+    "timeDay": 236,
+    "timeWeek": 327,
+    "timeMonth": 345,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2026-01-26": 81,
-      "2025-05-05": 17
+      "2026-01-26": 81
     }
   },
   {
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 291,
-    "timeDay": 360,
-    "timeWeek": 192,
-    "timeMonth": 273,
+    "timeDay": 197,
+    "timeWeek": 204,
+    "timeMonth": 276,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2025-11-18": 132
@@ -46,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/try.openfree.energy.ico",
     "slug": "try-open-fe",
     "status": "down",
-    "uptime": "41.63%",
+    "uptime": "41.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 786,
+    "time": 787,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 206,
+      "2026-05-05": 173,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -420,8 +420,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -436,10 +435,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 223,
-    "timeWeek": 195,
-    "timeMonth": 222,
-    "timeYear": 228,
+    "timeDay": 107,
+    "timeWeek": 186,
+    "timeMonth": 216,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -453,11 +452,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
-    "time": 279,
-    "timeDay": 236,
-    "timeWeek": 208,
-    "timeMonth": 229,
-    "timeYear": 282,
+    "time": 278,
+    "timeDay": 110,
+    "timeWeek": 187,
+    "timeMonth": 222,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2026-04-14": 56,
       "2026-03-10": 38,
@@ -478,9 +477,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
     "time": 276,
-    "timeDay": 243,
-    "timeWeek": 228,
-    "timeMonth": 224,
+    "timeDay": 145,
+    "timeWeek": 212,
+    "timeMonth": 220,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2026-04-14": 56,
