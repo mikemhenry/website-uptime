@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 413,
-    "timeDay": 342,
-    "timeWeek": 292,
-    "timeMonth": 314,
+    "timeDay": 283,
+    "timeWeek": 288,
+    "timeMonth": 315,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2026-01-26": 81
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 290,
-    "timeDay": 169,
-    "timeWeek": 229,
-    "timeMonth": 234,
-    "timeYear": 302,
+    "timeDay": 94,
+    "timeWeek": 201,
+    "timeMonth": 221,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2025-11-18": 132
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/try.openfree.energy.ico",
     "slug": "try-open-fe",
     "status": "down",
-    "uptime": "40.81%",
+    "uptime": "40.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 843,
+    "time": 850,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-19": 223,
+      "2026-05-20": 225,
+      "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
@@ -419,8 +420,7 @@
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
-      "2025-05-21": 1440,
-      "2025-05-20": 1440
+      "2025-05-21": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 194,
+    "timeDay": 152,
+    "timeWeek": 183,
+    "timeMonth": 191,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -453,8 +453,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 279,
-    "timeDay": 211,
-    "timeWeek": 239,
+    "timeDay": 223,
+    "timeWeek": 235,
     "timeMonth": 231,
     "timeYear": 280,
     "dailyMinutesDown": {
@@ -477,9 +477,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 275,
-    "timeDay": 218,
-    "timeWeek": 199,
-    "timeMonth": 218,
+    "timeDay": 237,
+    "timeWeek": 201,
+    "timeMonth": 219,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2026-04-14": 56,
