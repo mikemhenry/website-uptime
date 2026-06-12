@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 408,
-    "timeDay": 272,
-    "timeWeek": 271,
-    "timeMonth": 279,
+    "timeDay": 323,
+    "timeWeek": 259,
+    "timeMonth": 278,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2026-01-26": 81
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 282,
-    "timeDay": 144,
-    "timeWeek": 164,
-    "timeMonth": 170,
-    "timeYear": 295,
+    "timeDay": 142,
+    "timeWeek": 146,
+    "timeMonth": 163,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2025-11-18": 132
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/try.openfree.energy.ico",
     "slug": "try-open-fe",
     "status": "down",
-    "uptime": "39.61%",
+    "uptime": "39.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 945,
+    "time": 951,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-11": 248,
+      "2026-06-12": 250,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -419,8 +420,7 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440,
-      "2025-06-12": 1440
+      "2025-06-13": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 148,
-    "timeWeek": 197,
-    "timeMonth": 187,
+    "timeDay": 168,
+    "timeWeek": 185,
+    "timeMonth": 185,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -447,15 +447,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.alchemiscale.org.ico",
     "slug": "alchemiscale-api",
     "status": "down",
-    "uptime": "99.82%",
+    "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.37%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "99.60%",
+    "uptimeWeek": "69.07%",
+    "uptimeMonth": "92.67%",
+    "uptimeYear": "99.33%",
     "time": 275,
     "timeDay": 0,
-    "timeWeek": 240,
-    "timeMonth": 223,
+    "timeWeek": 247,
+    "timeMonth": 220,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -464,7 +464,8 @@
       "2026-03-10": 38,
       "2026-04-14": 56,
       "2026-05-27": 93,
-      "2026-06-11": 248,
+      "2026-06-12": 250,
+      "2026-06-11": 1440,
       "2026-06-10": 1428
     }
   },
@@ -474,15 +475,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/compute.alchemiscale.org.ico",
     "slug": "alchemiscale-compute",
     "status": "down",
-    "uptime": "99.75%",
+    "uptime": "99.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.37%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "99.62%",
+    "uptimeWeek": "69.07%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "99.35%",
     "time": 271,
     "timeDay": 0,
-    "timeWeek": 182,
-    "timeMonth": 209,
+    "timeWeek": 173,
+    "timeMonth": 206,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -490,7 +491,8 @@
       "2026-02-19": 173,
       "2026-03-10": 38,
       "2026-04-14": 56,
-      "2026-06-11": 248,
+      "2026-06-12": 250,
+      "2026-06-11": 1440,
       "2026-06-10": 1428
     }
   }
