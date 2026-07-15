@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 404,
-    "timeDay": 376,
-    "timeWeek": 363,
-    "timeMonth": 319,
-    "timeYear": 398,
+    "timeDay": 225,
+    "timeWeek": 297,
+    "timeMonth": 321,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2026-01-26": 81
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 279,
-    "timeDay": 325,
-    "timeWeek": 323,
-    "timeMonth": 227,
-    "timeYear": 289,
+    "time": 280,
+    "timeDay": 312,
+    "timeWeek": 291,
+    "timeMonth": 226,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2025-11-18": 132
     }
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/try.openfree.energy.ico",
     "slug": "try-open-fe",
     "status": "down",
-    "uptime": "38.01%",
+    "uptime": "37.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1261,
+    "time": 1277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-14": 156,
+      "2026-07-15": 155,
+      "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
@@ -419,8 +420,7 @@
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
-      "2025-07-16": 1440,
-      "2025-07-15": 1440
+      "2025-07-16": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 143,
-    "timeWeek": 200,
-    "timeMonth": 190,
+    "timeDay": 106,
+    "timeWeek": 176,
+    "timeMonth": 186,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -453,9 +453,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 272,
-    "timeDay": 210,
-    "timeWeek": 233,
-    "timeMonth": 237,
+    "timeDay": 133,
+    "timeWeek": 199,
+    "timeMonth": 236,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -481,9 +481,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 268,
-    "timeDay": 232,
-    "timeWeek": 251,
-    "timeMonth": 233,
+    "timeDay": 149,
+    "timeWeek": 219,
+    "timeMonth": 229,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-08-27": 18,
