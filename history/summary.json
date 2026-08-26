@@ -44,17 +44,17 @@
     "url": "https://try.openfree.energy",
     "icon": "https://icons.duckduckgo.com/ip3/try.openfree.energy.ico",
     "slug": "try-open-fe",
-    "status": "up",
-    "uptime": "36.21%",
-    "uptimeDay": "89.43%",
-    "uptimeWeek": "12.78%",
-    "uptimeMonth": "1.03%",
-    "uptimeYear": "0.25%",
-    "time": 5260,
-    "timeDay": 10632,
-    "timeWeek": 10632,
-    "timeMonth": 10632,
-    "timeYear": 10632,
+    "status": "degraded",
+    "uptime": "36.27%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "24.68%",
+    "uptimeMonth": "3.77%",
+    "uptimeYear": "0.47%",
+    "time": 7488,
+    "timeDay": 19723,
+    "timeWeek": 14695,
+    "timeMonth": 14695,
+    "timeYear": 14695,
     "dailyMinutesDown": {
       "2026-08-25": 234,
       "2026-08-24": 1440,
@@ -419,7 +419,8 @@
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-27": 1440,
+      "2026-08-26": 0
     }
   },
   {
