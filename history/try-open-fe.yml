@@ -1,7 +1,7 @@
 url: https://try.openfree.energy
-status: up
-code: 200
-responseTime: 497
-lastUpdated: 2026-08-27T04:14:40.900Z
+status: degraded
+code: 522
+responseTime: 38979
+lastUpdated: 2026-08-27T20:50:37.400Z
 startTime: 2024-04-19T17:50:54.902Z
 generator: Upptime <https://github.com/upptime/upptime>
