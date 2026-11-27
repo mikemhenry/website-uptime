@@ -44,9 +44,9 @@
     "slug": "try-open-fe",
     "status": "degraded",
     "uptime": "42.30%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.23%",
     "uptimeYear": "25.38%",
     "time": 3116,
     "timeDay": 10059,
@@ -334,7 +334,7 @@
       "2026-11-01": 420,
       "2026-11-04": 101,
       "2026-11-03": 136,
-      "2026-11-27": 0
+      "2026-11-27": 118
     }
   },
   {
